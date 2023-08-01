@@ -11,11 +11,10 @@ Here are some resources to help folks jump right into participating in R4DS Onli
 
 - GitHub: <https://github.com/r4ds> 
 
-
-### Is R4DS on Social Media?
-  
 - Youtube: <https://www.youtube.com/@r4ds> 
 
+### Where to find R4DS on Social Media:
+  
 - Linkedin: <https://www.linkedin.com/company/r4ds/> 
 
 - Twitter: <https://twitter.com/R4DScommunity> 
