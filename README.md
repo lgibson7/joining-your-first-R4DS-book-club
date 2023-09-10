@@ -1,9 +1,12 @@
 # Joining Your First R4DS Book Club
 
-Here are some resources to help folks jump right into participating in R4DS Online Learning Community book clubs.
+## R4DS R for Data Science Book Club [Cohort 9 Intro vid](https://youtu.be/9ar16FGFgT0?si=wzPeWTfq-RE_ru2O)
 
 
-## R4DS Online Learning Community
+## Here are some resources to help folks jump right into participating in R4DS Online Learning Community book clubs.
+
+
+### R4DS Online Learning Community
 
 - Website: <https://www.rfordatasci.com/> (*Shortcut: [r4ds.io](r4ds.io)*)
 
